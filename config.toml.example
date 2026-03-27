@@ -1,0 +1,7 @@
+[sync_share]
+url = "https://syncandshare.lrz.de/remote.php/dav/files/YOUR_TUM_USERNAME/"
+username = "your-tum-username"
+password = "your-app-password"
+
+[thresholds]
+min_video_duration_minutes = 10

@@ -1,0 +1,2 @@
+osxphotos>=0.68.0
+webdav4>=0.9.8
