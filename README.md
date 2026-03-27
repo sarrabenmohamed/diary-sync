@@ -13,7 +13,6 @@ Nothing is permanently deleted — everything goes to the Photos trash, which yo
 
 - macOS 13 Ventura or later
 - Python 3.11+
-- [ffprobe](https://ffmpeg.org/download.html) is **not** required — duration is read via `osxphotos`
 
 ---
 
